@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+openai
+sentence-transformers
+qdrant-client
+pymupdf
+python-docx
+pydantic
+python-dotenv
+python-multipart
+httpx

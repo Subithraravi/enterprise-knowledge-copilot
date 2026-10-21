@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# API keys and environment variables
+.env
+.env.*
+
+# Allow example environment template
+!.env.example
+
+# Test cache
+.pytest_cache/
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log
